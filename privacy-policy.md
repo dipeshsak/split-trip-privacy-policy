@@ -45,7 +45,3 @@ We may update this Privacy Policy occasionally. Updates will be reflected by the
 7. Contact Us
 
 If you have questions or suggestions about this Privacy Policy, contact us at: amazinginventos@gmail.com
-
-Go to https://github.com/new
-
-Name it someth
